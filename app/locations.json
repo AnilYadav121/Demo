@@ -1,0 +1,150 @@
+[
+	{
+		"address": "201 San Antonio Circle, Suite 250",
+		"brand": "Punchh",
+		"city": "Mountain View",
+		"country": "United States",
+		"latitude": "37.406756",
+		"location_id": 306095,
+		"longitude": "-122.109125",
+		"name": "Punchh Test Location 1",
+		"phone_number": "(123) 456-7890",
+		"loc_email": "location1@business.com",
+		"post_code": "94040",
+		"state": "California",
+		"store_number": "01011-00002",
+		"store_tags": "WiFi,DriveThru,GiftCard,Rewards",
+		"store_times": [
+			{
+				"day": "Mon",
+				"start_time": "6:30 AM",
+				"end_time": "11:00 PM"
+			},
+			{
+				"day": "Tue",
+				"start_time": "6:30 AM",
+				"end_time": "11:00 PM"
+			},
+			{
+				"day": "Wed",
+				"start_time": "6:30 AM",
+				"end_time": "11:00 PM"
+			},
+			{
+				"day": "Thu",
+				"start_time": "6:30 AM",
+				"end_time": "11:00 PM"
+			},
+			{
+				"day": "Fri",
+				"start_time": "6:30 AM",
+				"end_time": "11:00 PM"
+			},
+			{
+				"day": "Sat",
+				"start_time": "6:30 AM",
+				"end_time": "1:00 AM"
+			},
+			{
+				"day": "Sun",
+				"start_time": "6:30 AM",
+				"end_time": "1:00 AM"
+			}
+		],
+		"time_zone": "America/Los_Angeles",
+		"updated_at": "2016-08-04T11:06:04Z",
+		"status": "approved",
+		"franchisee_id": 1234,
+		"checkin_evidenced_by": "barcode",
+		"guest_identity_code_type": "barcode",
+		"enable_pos_monitoring": false,
+		"location_groups": [
+			{
+				"location_group_id": 2051,
+				"name": "Location Group A"
+			},
+			{
+				"location_group_id": 2052,
+				"name": "Location Group B"
+			},
+			{
+				"location_group_id": 2053,
+				"name": "Location Group C"
+			}
+		]
+	},
+	{
+		"address": "Panchh Batti, M.I. Road",
+		"brand": "Punchh",
+		"city": "Jaipur",
+		"country": "India",
+		"latitude": "26.916409",
+		"location_id": 306096,
+		"longitude": "70.808993",
+		"name": "Punchh Test Location 2",
+		"phone_number": "(123) 456-7890",
+		"loc_email": "location2@business.com",
+		"post_code": "302001",
+		"state": "Rajasthan",
+		"store_number": "01011-00005",
+		"store_tags": "WiFi,GiftCard,Rewards",
+		"store_times": [
+			{
+				"day": "Mon",
+				"start_time": "7:00 AM",
+				"end_time": "8:00 PM"
+			},
+			{
+				"day": "Tue",
+				"start_time": "7:00 AM",
+				"end_time": "8:00 PM"
+			},
+			{
+				"day": "Wed",
+				"start_time": "7:00 AM",
+				"end_time": "8:00 PM"
+			},
+			{
+				"day": "Thu",
+				"start_time": "7:00 AM",
+				"end_time": "8:00 PM"
+			},
+			{
+				"day": "Fri",
+				"start_time": "7:00 AM",
+				"end_time": "8:00 PM"
+			},
+			{
+				"day": "Sat",
+				"start_time": "CLOSED",
+				"end_time": "CLOSED"
+			},
+			{
+				"day": "Sun",
+				"start_time": "CLOSED",
+				"end_time": "CLOSED"
+			}
+		],
+		"time_zone": "Asia/Kolkata",
+		"updated_at": "2016-08-04T11:06:04Z",
+		"status": "disapproved",
+		"franchisee_id": null,
+		"checkin_evidenced_by": "barcode",
+		"guest_identity_code_type": "barcode",
+		"enable_pos_monitoring": true,
+		"location_groups": [
+			{
+				"location_group_id": 2051,
+				"name": "Location Group A"
+			},
+			{
+				"location_group_id": 2052,
+				"name": "Location Group B"
+			},
+			{
+				"location_group_id": 2053,
+				"name": "Location Group C"
+			}
+		]
+	}
+]
